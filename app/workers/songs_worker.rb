@@ -1,7 +1,7 @@
 class SongsWorker
   require 'csv'
 
-  def perform
+  def perform(file)
 
 
   end
