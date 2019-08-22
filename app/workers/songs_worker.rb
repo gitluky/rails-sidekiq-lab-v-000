@@ -3,7 +3,7 @@ class SongsWorker
 
   include Sidekiq::Worker
 
-  def perform(file)
+  def perform(songs_file)
 
 
   end
